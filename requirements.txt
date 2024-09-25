@@ -1,0 +1,4 @@
+List all your dependencies here so users can install them easily using pip install -r requirements.txt.
+
+pandas
+elasticsearch
